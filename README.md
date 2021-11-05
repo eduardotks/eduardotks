@@ -1,5 +1,7 @@
 Hi 👋, I'm Eduardo. I work at Cia do Treinamento as a Developer and Programmer 💻📱.
+
 I really like technology 💻❤️, that's why I'm here.
+
 I'm very happy you visited my profile, welcome 🤝 and thank you! 😊
 
 <!--
