@@ -1,6 +1,6 @@
-### Hi 👋, I'm Eduardo. I work at Cia do Treinamento as a Developer and Programmer 💻📱.
+Hi 👋, I'm Eduardo. I work at Cia do Treinamento as a Developer and Programmer 💻📱.
 
-### I really like technology 💻❤️, that's why I'm here. I'm very happy you visited my profile, welcome and thank you! 😊
+I really like technology 💻❤️, that's why I'm here. I'm very happy you visited my profile, welcome and thank you! 😊
 
 <!--
 **eduardotks/eduardotks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
