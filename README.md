@@ -1,9 +1,9 @@
-Hi 👋, I'm Eduardo. I work at Cia do Treinamento as a Developer and Programmer 💻📱.
-
-I really like technology 💻❤️, that's why I'm here.
-
-I'm very happy you visited my profile, welcome 🤝 and thank you! 😊
-
+<div align="center">
+<p>Hi 👋, I'm Eduardo. I work at Cia do Treinamento as a Developer and Programmer 💻📱.</p>
+<p>I really like technology 💻❤️, that's why I'm here.</p>
+<p>I'm very happy you visited my profile, welcome 🤝 and thank you! 😊</p>
+  
+</div>
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardotks&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
