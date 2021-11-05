@@ -1,5 +1,5 @@
 <div align="center">
-<p>Hi 👋, I'm Eduardo. I work at Cia do Treinamento as a Developer and Programmer 💻📱.</p>
+<p>Hi 👋, I'm Eduardo. I work as a Developer and Programmer 💻📱.</p>
 <p>I really like technology 💻❤️, that's why I'm here.</p>
 <p>I'm very happy you visited my profile, welcome 🤝 and thank you! 😊</p>
   
