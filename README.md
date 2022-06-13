@@ -7,6 +7,10 @@
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eduardotks&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
 
+  <a href="https://github.com/eduardotks">
+  <img height="150em" src="https://c.tenor.com/aOGrDnlny-YAAAAC/pc-master.gif"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotks&layout=compact&langs_count=15&theme=codeSTACKr&count_private=true"/>
+</div>
 
 </div>
 <div style="display: inline_block" align="center"><br>
