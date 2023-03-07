@@ -1,7 +1,7 @@
 <div align="center">
 <p>Hi 👋, my name is Eduardo. I work as a Full Stack Developer 💻📱.</p>
 <p>I really like technology 💻❤️, that's why I'm here.</p>
-<p>I'm very happy you visited my profile, welcome 🤝 and thank you! 😊</p>
+<p>I'm very happy that you visited my profile, welcome 🤝 and thank you! 😊</p>
   
 </div>
 <div align="center">
