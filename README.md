@@ -1,4 +1,7 @@
 <div align="center">
+<h1 align="center" style="width:100;%">
+ <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" />
+</h1>
 <p>Hi 👋, my name is Eduardo. I work as a Full Stack Developer 💻📱.</p>
 <p>I really like technology 💻❤️, that's why I'm here.</p>
 <p>I'm very happy that you visited my profile, welcome 🤝 and thank you! 😊</p>
