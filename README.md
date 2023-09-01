@@ -15,8 +15,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotks&layout=compact&langs_count=15&theme=codeSTACKr&count_private=true"/>
 
 </div>
-   <!--START_SECTION:waka-->
-   <!--END_SECTION:waka-->
+   <!--START_SECTION:SHOW_LANGUAGE-->
+   <!--END_SECTION:SHOW_LANGUAGE-->
 
 </div>
 <div style="display: inline_block" align="center"><br>
