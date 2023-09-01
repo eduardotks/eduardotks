@@ -15,9 +15,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotks&layout=compact&langs_count=15&theme=codeSTACKr&count_private=true"/>
 
 </div>
-   <!--START_SECTION:SHOW_LANGUAGE-->
-   <!--END_SECTION:SHOW_LANGUAGE-->
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Ed-Vstudio" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg">
