@@ -49,7 +49,7 @@
 ## 📫 Connect with me  
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/eduardo-c-86070a192/" target="_blank">
+  <a href="[https://www.linkedin.com/in/eduardo-c-86070a192/](https://www.linkedin.com/in/eduardo-c-270139310/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
