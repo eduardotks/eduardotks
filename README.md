@@ -1,6 +1,6 @@
 <!-- Banner de apresentação -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" width="100%" alt="Banner">
+    <img src="https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif" width="100%" alt="Banner">
 </div>
 
 ---
@@ -8,7 +8,6 @@
 ## 👋 Hello, I'm Eduardo!  
 💻 Full Stack Developer | Passionate about technology and problem-solving.  
 🚀 Building cool projects and exploring new technologies every day.  
-
 📌 **Tech Enthusiast | Problem Solver | Open Source Contributor**  
 
 ---
@@ -36,7 +35,7 @@
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 
 ---
-
+<!--
 ## 📊 GitHub Stats  
 
 <div align="center">
@@ -47,7 +46,7 @@
 </div>
 
 ---
-
+-->
 ## 📫 Connect with me  
 
 <div align="center">
@@ -57,11 +56,21 @@
 </div>
 
 ---
-
+<!--
 ## 🔥 Activity  
+
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eduardotks&theme=dark"/>
+</div>
+
+---
+-->
+
+</div>
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=eduardotks&row=1&column=6&theme=gruvbox&margin-w=15&margin-h=15"/>
+   </div>
 </div>
 
 ---
